@@ -48,7 +48,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📧 Contact
 For any questions, suggestions, or issues, feel free to:
 - Open an **issue** in this repository
-- Contact us at **[your-email@example.com]**
+- Contact us at **[sobajour13@gmail.com]**
 
 ---
 
